@@ -5,12 +5,13 @@ Pro-bono project made for Axis' Ford GT mod.
 ## Wing behavior breakdown:
 The Ford GT 2020 features an active rear wing that adjusts its behavior based on the vehicle's speed and braking status. Here's a breakdown of the wing behavior:
 
+https://github.com/plus-and-other-arithmetic-operations/Ford-GT-Wing/assets/88043761/e18523c8-f90d-4310-80f4-2d38e2456710
+
 ### Speed-Dependent Adjustment:
 
 > **When the vehicle speed exceeds 114 km/h**, the rear wing automatically raises to an elevated position.
 > 
 > This elevated position contributes to increased aerodynamic downforce for enhanced stability at high speeds.
-
 
 ### Inactive Airbrake at Low Speeds:
 
