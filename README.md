@@ -1,5 +1,7 @@
 # Ford-GT-Wing
 
+Pro-bono project made for Axis' Ford GT mod.
+
 ## Wing behavior breakdown:
 The Ford GT 2020 features an active rear wing that adjusts its behavior based on the vehicle's speed and braking status. Here's a breakdown of the wing behavior:
 
